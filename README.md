@@ -1,1 +1,1 @@
-# ai-summarizer
+# summarizer_ai
